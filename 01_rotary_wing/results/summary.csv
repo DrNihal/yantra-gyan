@@ -1,0 +1,4 @@
+Case,Position RMSE (m),Maximum Position Error (m)
+A - Nominal,0.044617,0.142701
+B - Model uncertainty,0.488682,0.547896
+C - Uncertainty + disturbance,0.520606,0.705311
