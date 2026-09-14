@@ -1,0 +1,35 @@
+[
+  {
+    "case": "case_A_nominal",
+    "rmse_position_m": 0.04461651001509266,
+    "max_position_error_m": 0.14270080946083155,
+    "final_position_error_m": 0.040542538979483275,
+    "max_rotor_speed_rad_s": 900.0,
+    "mean_rotor_speed_rad_s": 491.77664388045235,
+    "max_thrust_N": 14.907238666843485,
+    "disturbance_peak_N": 0.0,
+    "disturbance_active": false
+  },
+  {
+    "case": "case_B_uncertain",
+    "rmse_position_m": 0.4886822372991804,
+    "max_position_error_m": 0.5478961202338146,
+    "final_position_error_m": 0.49218373844671076,
+    "max_rotor_speed_rad_s": 900.0,
+    "mean_rotor_speed_rad_s": 537.956448761693,
+    "max_thrust_N": 18.451544216652405,
+    "disturbance_peak_N": 0.0,
+    "disturbance_active": false
+  },
+  {
+    "case": "case_C_disturbed",
+    "rmse_position_m": 0.5206055361667599,
+    "max_position_error_m": 0.7053106981490069,
+    "final_position_error_m": 0.49218373362458295,
+    "max_rotor_speed_rad_s": 900.0,
+    "mean_rotor_speed_rad_s": 538.1196472693856,
+    "max_thrust_N": 18.451544216652405,
+    "disturbance_peak_N": 1.7658000000000003,
+    "disturbance_active": true
+  }
+]
