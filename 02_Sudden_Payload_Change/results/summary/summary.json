@@ -1,0 +1,50 @@
+{
+  "case_A_nominal": {
+    "controller_mass_kg": 1.5,
+    "initial_actual_mass_kg": 1.5,
+    "post_payload_actual_mass_kg": 1.5,
+    "payload_event_time_s": null,
+    "external_disturbance": false,
+    "pre_payload_rmse_m": 0.03521345490842372,
+    "post_payload_rmse_m": 0.0006421884060558388,
+    "overall_rmse_m": 0.021567031554605744,
+    "post_payload_peak_error_m": 0.0006422087817657763,
+    "post_payload_peak_time_s": 15.0,
+    "final_position_error_m": 0.0006421882015854722,
+    "recovery_time_to_10cm_s": NaN,
+    "max_rotor_speed_rad_s": 518.3614325250632,
+    "saturation_duration_s": 0.0
+  },
+  "case_B_payload": {
+    "controller_mass_kg": 1.5,
+    "initial_actual_mass_kg": 1.5,
+    "post_payload_actual_mass_kg": 1.8,
+    "payload_event_time_s": 15.0,
+    "external_disturbance": false,
+    "pre_payload_rmse_m": 0.03521345490842372,
+    "post_payload_rmse_m": 0.4836037046121433,
+    "overall_rmse_m": 0.3829584031918133,
+    "post_payload_peak_error_m": 0.5458485583612923,
+    "post_payload_peak_time_s": 17.1,
+    "final_position_error_m": 0.4905427268054562,
+    "recovery_time_to_10cm_s": NaN,
+    "max_rotor_speed_rad_s": 554.2292210489163,
+    "saturation_duration_s": 0.0
+  },
+  "case_C_payload_disturbance": {
+    "controller_mass_kg": 1.5,
+    "initial_actual_mass_kg": 1.5,
+    "post_payload_actual_mass_kg": 1.8,
+    "payload_event_time_s": 15.0,
+    "external_disturbance": true,
+    "pre_payload_rmse_m": 0.03521345490842372,
+    "post_payload_rmse_m": 0.5276733287759685,
+    "overall_rmse_m": 0.417750451695049,
+    "post_payload_peak_error_m": 0.6821593512701695,
+    "post_payload_peak_time_s": 20.77,
+    "final_position_error_m": 0.4905427268490617,
+    "recovery_time_to_10cm_s": NaN,
+    "max_rotor_speed_rad_s": 554.3337552469476,
+    "saturation_duration_s": 0.0
+  }
+}

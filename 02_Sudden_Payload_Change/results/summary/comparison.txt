@@ -1,0 +1,5 @@
+Case | Pre-event RMSE [m] | Post-event RMSE [m] | Peak post-event error [m] | Recovery to 10 cm [s] | Max rotor speed [rad/s]
+---
+case_A_nominal | 0.03521 | 0.00064 | 0.00064 | N/A | 518.36
+case_B_payload | 0.03521 | 0.48360 | 0.54585 | not reached | 554.23
+case_C_payload_disturbance | 0.03521 | 0.52767 | 0.68216 | not reached | 554.33
