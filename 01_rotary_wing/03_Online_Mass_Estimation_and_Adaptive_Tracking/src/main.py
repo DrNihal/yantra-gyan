@@ -1,4 +1,4 @@
-"""Entry point for Yantra Gyan #03."""
+"""Entry point for Yantra Gyan #03.""" 
 
 from pathlib import Path
 import sys
